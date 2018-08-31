@@ -1,1 +1,2 @@
-Gabriel.
+RF01: Cadastro de Usuário
+Sistema deverá ter usuários cadastrados como Aluno ou Professor, com as respectivas informações: Id, nome, email, login e senha.
