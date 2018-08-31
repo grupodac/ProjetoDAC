@@ -1,5 +1,5 @@
 
-lass Program 
+Class Program 
     { 
         static void Main(string[] args) 
         { 
