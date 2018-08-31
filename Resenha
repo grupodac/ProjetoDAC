@@ -1,7 +1,10 @@
+Criar classificação de satisfação com o livro pelo usuário onde irá atribuir nota de 1 a 5.
+1 Muito Insatisfeito
+2 Insatisfeito
+3 Nem Satisfeito, Nem Insatisfeito
+4 Satisfeito
+5 Muito Satisfeito
 
-Usuário que marcaram o livro com estrelas
-1 estrala
-2 estrala
-3 estrala
-4 estrala
-5 estrala
+Possuir campo para escrita livre.
+
+Possuir ID para cada Resenha.
